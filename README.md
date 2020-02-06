@@ -1,4 +1,4 @@
-# sapper-template
+# Sappper Typescript Template 
 
 All the credit and hard work came from this repo:
 https://github.com/pyoner/svelte-typescript
