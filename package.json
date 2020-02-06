@@ -35,7 +35,7 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-svelte": "^5.0.1",
     "rollup-plugin-terser": "^4.0.4",
-    "rolnplup-plugin-commonjs": "^9.1.6",
+    "rollup-plugin-commonjs": "^9.1.6",
     "sapper": "^0.27.9",
     "svelte": "^3.18.1",
     "typescript": "^3.7.5"
