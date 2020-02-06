@@ -1,14 +1,17 @@
 # sapper-template
 
-All the credit goes here:
+All the credit and hard work came from this repo:
 https://github.com/pyoner/svelte-typescript
 
 ## Install
 
 ```
-npx  degit
-npm install
+npm install -g degit
+degit github:phptuts/sappertypescriptstart my-app
+cd my-app
 cp .env-template .env
+npm install
+npm run dev
 ```
 
 ## Typescript on components
