@@ -14,6 +14,13 @@ npm install
 npm run dev
 ```
 
+Once it loads you should see this in the terminal console and browser console.  This means the environment variables are loading.
+
+```console
+ENVIRONMENT VARIABLES WORKING
+DOES NOT EXIST.
+```
+
 ## Typescript on components
 
 This is required for visual code.
