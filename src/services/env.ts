@@ -5,3 +5,7 @@ export const getEnvParam = (property, defaultString = 'unknown'): string => {
   }
   return defaultString;
 };
+
+export const isBrowser = () => {
+  return Boolean(process['env']['browser']) === true;
+}
